@@ -1,0 +1,18 @@
+{
+	"readSettingsFromUrl": false,
+	"settingsReloadIntervalMinutes": 1,
+	"fullscreen": true,
+	"autoStart": true,
+	"websites" : [
+		{
+			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/dispute_notifications",
+			"duration" : 45,
+			"tabReloadIntervalSeconds": 45
+		},
+		{
+			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/acompanhamento_cadastro",
+			"duration" : 45,
+			"tabReloadIntervalSeconds": 45
+		}
+	]
+}
