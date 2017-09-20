@@ -1,6 +1,6 @@
 {
 	"readSettingsFromUrl": true,
-	"settingsReloadIntervalMinutes": 1,
+	"settingsReloadIntervalMinutes": 2,
 	"fullscreen": true,
 	"autoStart": true,
 	"websites" : [
@@ -12,7 +12,7 @@
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/acompanhamento_cadastro",
 			"duration" : 30,
-			"tabReloadIntervalSeconds": 45
+			"tabReloadIntervalSeconds": 30
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/oauth2?form.field1.earliest=-60m%40m&form.field1.latest=now&hideFilters=true",
