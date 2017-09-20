@@ -11,7 +11,7 @@
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/acompanhamento_cadastro",
-			"duration" : 15,
+			"duration" : 30,
 			"tabReloadIntervalSeconds": 45
 		},
 		{
