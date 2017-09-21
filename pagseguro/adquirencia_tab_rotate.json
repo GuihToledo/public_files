@@ -1,6 +1,6 @@
 {
 	"readSettingsFromUrl": true,
-	"settingsReloadIntervalMinutes": 2,
+	"settingsReloadIntervalMinutes": 5,
 	"fullscreen": true,
 	"autoStart": true,
 	"websites" : [
