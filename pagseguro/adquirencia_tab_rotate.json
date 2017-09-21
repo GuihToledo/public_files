@@ -1,28 +1,23 @@
 {
 	"readSettingsFromUrl": true,
-	"settingsReloadIntervalMinutes": 5,
+	"settingsReloadIntervalMinutes": 6,
 	"fullscreen": true,
 	"autoStart": true,
 	"websites" : [
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/dispute_notifications",
-			"duration" : 45,
-			"tabReloadIntervalSeconds": 45
+			"duration" : 60,
+			"tabReloadIntervalSeconds": 600
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/acompanhamento_cadastro",
-			"duration" : 30,
-			"tabReloadIntervalSeconds": 30
+			"duration" : 60,
+			"tabReloadIntervalSeconds": 600
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/oauth2?form.field1.earliest=-60m%40m&form.field1.latest=now&hideFilters=true",
-			"duration" : 45,
-			"tabReloadIntervalSeconds": 45
-		},
-		{
-			"url" : "http://uol.com.br",
-			"duration" : 45,
-			"tabReloadIntervalSeconds": 45
+			"duration" : 60,
+			"tabReloadIntervalSeconds": 300
 		}
 	]
 }
