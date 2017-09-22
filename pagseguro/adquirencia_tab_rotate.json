@@ -18,11 +18,6 @@
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/oauth2?form.field1.earliest=-60m%40m&form.field1.latest=now&hideFilters=true",
 			"duration" : 60,
 			"tabReloadIntervalSeconds": 300
-		},
-		{
-			"url" : "http://trabalharemcasaideias.com/wp-content/uploads/2014/10/Consultora-jequiti.jpg",
-			"duration" : 1,
-			"tabReloadIntervalSeconds": 600
 		}
 	]
 }
