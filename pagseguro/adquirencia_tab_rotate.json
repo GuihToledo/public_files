@@ -6,22 +6,22 @@
 	"websites" : [
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/dispute_notifications",
-			"duration" : 60,
+			"duration" : 45,
 			"tabReloadIntervalSeconds": 600
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/acompanhamento_cadastro",
-			"duration" : 0,
+			"duration" : 45,
 			"tabReloadIntervalSeconds": 600
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/oauth2?form.field1.earliest=-60m%40m&form.field1.latest=now&hideFilters=true",
-			"duration" : 60,
+			"duration" : 45,
 			"tabReloadIntervalSeconds": 300
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/search/softdescriptor?hideFilters=true",
-			"duration" : 60,
+			"duration" : 45,
 			"tabReloadIntervalSeconds": 300
 		}
 		
