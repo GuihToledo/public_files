@@ -20,7 +20,7 @@
 			"tabReloadIntervalSeconds": 300
 		},
 		{
-			"url" : "https://ps.splunk.intranet/en-US/app/search/softdescriptor?hideFilters=true",
+			"url" : "https://ps.splunk.intranet/en-US/app/search/softdescriptor?hideFilters=true&hideTitle=true",
 			"duration" : 45,
 			"tabReloadIntervalSeconds": 300
 		}
