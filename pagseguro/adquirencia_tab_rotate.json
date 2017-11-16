@@ -10,9 +10,9 @@
 			"tabReloadIntervalSeconds": 600
 		},
 		{
-			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/acompanhamento_cadastro",
+			"url" : "https://macs.intranet/grafana/dashboard/db/customer-services?refresh=1m&orgId=8&from=now-6h&to=now",
 			"duration" : 45,
-			"tabReloadIntervalSeconds": 600
+			"tabReloadIntervalSeconds": 60
 		},
 		{
 			"url" : "https://ps.splunk.intranet/en-US/app/Pagseguro/oauth2?form.field1.earliest=-60m%40m&form.field1.latest=now&hideFilters=true",
